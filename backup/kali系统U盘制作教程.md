@@ -11,7 +11,10 @@ kali liunx是 黑客/编程/学习  系统
 系统镜像烧入工具下载链接：
 https://www.123pan.com/s/IszVjv-CdmoH.html提取码:lele
 
+
+
 https://github.com/user-attachments/assets/f465a412-29e0-458b-9bd2-51e7245e0e66
+
 
 
 教程：
