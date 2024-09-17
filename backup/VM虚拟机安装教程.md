@@ -4,6 +4,9 @@
 【VM虚拟机】
 VM虚拟机安装包下载链接：
 https://www.123pan.com/s/IszVjv-03moH.html提取码:lele
+官方官网下载链接：
+https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+
 ![v2-727c75ab21cebca9c4ef55b47cdf5f9f_r](https://github.com/user-attachments/assets/41be9d8e-10d6-4f7b-8cb5-58a2a625567e)
 
 VM虚拟机介绍：
