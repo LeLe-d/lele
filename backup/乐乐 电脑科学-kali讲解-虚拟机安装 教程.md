@@ -13,14 +13,14 @@ https://www.kali.org/get-kali/#kali-installer-images
 腾讯源kali系统官方链接：
 https://mirrors.cloud.tencent.com/
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/48ddb080-b267-450c-a019-78e562a02d52)
-阿里源liunx系统官方链接：
+阿里源kali系统官方链接：
 https://developer.aliyun.com/mirror/
 ![bandicam 2024-09-22 09-58-27-871](https://github.com/user-attachments/assets/6eb886ea-45e2-42d3-b5e2-132d9d0029ae)
-清华源liunx系统官方链接：
+清华源kali系统官方链接：
 https://mirrors.tuna.tsinghua.edu.cn/help/xanmod/
 ![bandicam 2024-09-22 10-03-31-128](https://github.com/user-attachments/assets/5e89ecd8-8663-4657-a53e-795584aea39b)
 
-北京大学源liunx系统官方链接：
+北京大学源kali系统官方链接：
 https://mirrors.pku.edu.cn/Mirrors
 ![bandicam 2024-09-22 10-07-11-886](https://github.com/user-attachments/assets/3ec48a1f-efac-437d-8cf9-a11ce2acae66)
 liunx官方网站链接：
