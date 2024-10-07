@@ -5,26 +5,26 @@
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/aee73392-fc37-4483-8341-64bdf2155b6a)
 
 官方腾讯源镜像123云盘下载链接：
-https://www.123pan.com/s/IszVjv-WpmoH.html提取码:lele
+### [【点击123云盘下载】](https://www.123pan.com/s/IszVjv-WpmoH.html)提取码:lele
 Kali Linux 是一个基于 Debian 的 Linux 发行版，专门用于数字取证和渗透测试。它由 Offensive Security 团队开发，是 BackTrack Linux 的后继者。Kali Linux 包含了大量的安全和取证工具，被广泛用于安全专家、网络管理员、渗透测试人员以及需要进行系统安全评估的其他专业人员。由于其工具的多样性和专业性，Kali Linux 在信息安全领域非常受欢迎。
 官方官网下载链接：
-https://www.kali.org/get-kali/#kali-installer-images
+### [【kali liunx官网】](https://www.kali.org/get-kali/#kali-installer-images)
 ![bandicam 2024-09-28 15-21-52-300](https://github.com/user-attachments/assets/a78defc3-7494-48e6-a5b2-3f4d0306b069)
 腾讯源kali系统官方链接：
-https://mirrors.cloud.tencent.com/
+### [【腾讯kali liunx官网】](https://mirrors.cloud.tencent.com/)
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/48ddb080-b267-450c-a019-78e562a02d52)
 阿里源kali系统官方链接：
-https://developer.aliyun.com/mirror/
+### [【阿里kali liunx官网】](https://developer.aliyun.com/mirror/)
 ![bandicam 2024-09-22 09-58-27-871](https://github.com/user-attachments/assets/6eb886ea-45e2-42d3-b5e2-132d9d0029ae)
 清华源kali系统官方链接：
-https://mirrors.tuna.tsinghua.edu.cn/help/xanmod/
+### [【清华kali liunx官网】](https://mirrors.tuna.tsinghua.edu.cn/help/xanmod/)
 ![bandicam 2024-09-22 10-03-31-128](https://github.com/user-attachments/assets/5e89ecd8-8663-4657-a53e-795584aea39b)
 
 北京大学源kali系统官方链接：
-https://mirrors.pku.edu.cn/Mirrors
+### [【北京大学kali liunx官网】](https://mirrors.pku.edu.cn/Mirrors)
 ![bandicam 2024-09-22 10-07-11-886](https://github.com/user-attachments/assets/3ec48a1f-efac-437d-8cf9-a11ce2acae66)
 liunx官方网站链接：
-https://www.linux.org/pages/download/
+### [【liunx官网】](https://www.linux.org/pages/download/)
 ![bandicam 2024-09-21 17-59-39-156](https://github.com/user-attachments/assets/dbae2a48-7e40-48f2-8e58-358d25a57dc6)
 ![bandicam 2024-09-21 17-59-45-403](https://github.com/user-attachments/assets/c3ded2a6-53f2-4881-8aeb-cdd0b86a4434)
 ![bandicam 2024-09-21 17-59-49-708](https://github.com/user-attachments/assets/b161b19d-91e9-4847-ad90-89c7867311f9)
@@ -159,12 +159,10 @@ john --wordlist=/path/to/wordlist.txt /path/to/hashed_passwords.txt
 ![1 PPT专用](https://github.com/user-attachments/assets/bf4a757f-f97d-4360-b79d-2c383d439b2a)
 本技术由 “乐乐 电脑科学”提供，乐乐 电脑科学为计算机科技做贡献，乐乐 电脑科学提供教程，资源，计算机问题服务，本次贡献者
 （乐乐，）
-乐乐ti电脑科学 bilibili：
-1768832152
-![bandicam 2024-09-28 17-25-47-691](https://github.com/user-attachments/assets/39b2b99e-0e53-4294-94a7-573508f3330a)
+### 乐乐ti电脑科学 bilibili：
+### [【点击访问【乐乐电脑科学】bilibili账号】](https://space.bilibili.com/1768832152?spm_id_from=333.337.0.0)
 
-
-技术交流QQ群：
-581792351
+### 加入我们：
+### [【点击加入我们】](https://github-production-user-asset-6210df.s3.amazonaws.com/171937997/374119434-6337df30-b023-413f-972f-abe938fe8a55.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241007T120548Z&X-Amz-Expires=300&X-Amz-Signature=abcbefcb5f5fe319c5c6c783c738a175cb4e2cf979802d4f818b0d80eef250cd&X-Amz-SignedHeaders=host)
 技术支持捐赠：
-![幅宽码_20240928163557](https://github.com/user-attachments/assets/a4b02915-3f60-4130-8b1a-04d679bee452)
+### [【点击捐赠】](https://github.com/user-attachments/assets/a4b02915-3f60-4130-8b1a-04d679bee452)
