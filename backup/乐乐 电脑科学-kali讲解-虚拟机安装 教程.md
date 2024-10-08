@@ -3,16 +3,28 @@
 ### kali虚拟机安装教程
 演示kali系统——kali 腾讯源
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/aee73392-fc37-4483-8341-64bdf2155b6a)
-
-官方腾讯源镜像123云盘下载链接：
-### [【点击123云盘下载】](https://www.123pan.com/s/IszVjv-WpmoH.html)提取码:lele
-Kali Linux 是一个基于 Debian 的 Linux 发行版，专门用于数字取证和渗透测试。它由 Offensive Security 团队开发，是 BackTrack Linux 的后继者。Kali Linux 包含了大量的安全和取证工具，被广泛用于安全专家、网络管理员、渗透测试人员以及需要进行系统安全评估的其他专业人员。由于其工具的多样性和专业性，Kali Linux 在信息安全领域非常受欢迎。
-官方官网下载链接：
-### [【kali liunx官网】](https://www.kali.org/get-kali/#kali-installer-images)
-![bandicam 2024-09-28 15-21-52-300](https://github.com/user-attachments/assets/a78defc3-7494-48e6-a5b2-3f4d0306b069)
+### _下载方法：_
+### kali liunx腾讯官方镜像----------------------------------------------------------------------------------
+### 提示【从乐乐ti电脑科学视频过来的】-kali liunx腾讯源-为 乐乐 展示使用的kali liunx镜像，可用其他镜像，其他镜像在下面
+### 官方腾讯源镜像123云盘下载链接：
+### [【-腾讯kali liunx-点击123云盘下载】](https://www.123pan.com/s/IszVjv-WpmoH.html)提取码:lele
 腾讯源kali系统官方链接：
 ### [【腾讯kali liunx官网】](https://mirrors.cloud.tencent.com/)
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/48ddb080-b267-450c-a019-78e562a02d52)
+
+Kali Linux 是一个基于 Debian 的 Linux 发行版，专门用于数字取证和渗透测试。它由 Offensive Security 团队开发，是 BackTrack Linux 的后继者。Kali Linux 包含了大量的安全和取证工具，被广泛用于安全专家、网络管理员、渗透测试人员以及需要进行系统安全评估的其他专业人员。由于其工具的多样性和专业性，Kali Linux 在信息安全领域非常受欢迎。ti电脑科学视频过来的
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### kali liunx官方镜像--------------------------------------------------------------------------------------
+kali liunx官方镜像下载：
+### [【kali liunx官方镜像点击一键下载】](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-amd64.iso)
+kali liunx官方U盘镜像：
+### [【kali liunx官方U盘镜像点击一键下载】](https://kali.download/base-images/kali-2024.3/kali-linux-2024.3-live-amd64.iso)
+官方官网下载链接：
+### [【kali liunx官网】](https://www.kali.org/get-kali/#kali-installer-images)
+![bandicam 2024-09-28 15-21-52-300](https://github.com/user-attachments/assets/a78defc3-7494-48e6-a5b2-3f4d0306b069)
+
+----------------------------------------------------------------------------------------------------------------------------
 阿里源kali系统官方链接：
 ### [【阿里kali liunx官网】](https://developer.aliyun.com/mirror/)
 ![bandicam 2024-09-22 09-58-27-871](https://github.com/user-attachments/assets/6eb886ea-45e2-42d3-b5e2-132d9d0029ae)
