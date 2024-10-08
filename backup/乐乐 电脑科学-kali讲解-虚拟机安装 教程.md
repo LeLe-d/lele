@@ -4,7 +4,7 @@
 演示kali系统——kali 腾讯源
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/aee73392-fc37-4483-8341-64bdf2155b6a)
 ### _下载方法：_
-### kali liunx腾讯官方镜像---------------------------------------------------------------------------
+### kali liunx腾讯官方镜像----------------------------------------------------------
 ### 提示【从乐乐ti电脑科学视频过来的】-kali liunx腾讯源-为 乐乐 展示使用的kali liunx镜像，可用其他镜像，其他镜像在下面
 ### 官方腾讯源镜像123云盘下载链接：
 ### [【-腾讯kali liunx-点击123云盘下载】](https://www.123pan.com/s/IszVjv-WpmoH.html)提取码:lele
@@ -13,9 +13,9 @@
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/48ddb080-b267-450c-a019-78e562a02d52)
 
 Kali Linux 是一个基于 Debian 的 Linux 发行版，专门用于数字取证和渗透测试。它由 Offensive Security 团队开发，是 BackTrack Linux 的后继者。Kali Linux 包含了大量的安全和取证工具，被广泛用于安全专家、网络管理员、渗透测试人员以及需要进行系统安全评估的其他专业人员。由于其工具的多样性和专业性，Kali Linux 在信息安全领域非常受欢迎。ti电脑科学视频过来的
---------------------------------------------------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------
 
-### kali liunx官方镜像--------------------------------------------------------------------------------
+### kali liunx官方镜像----------------------------------------------------------------
 kali liunx官方镜像下载：
 ### [【kali liunx官方镜像点击一键下载】](https://cdimage.kali.org/kali-2024.3/kali-linux-2024.3-installer-amd64.iso)
 kali liunx官方U盘镜像：
@@ -24,18 +24,18 @@ kali liunx官方U盘镜像：
 ### [【kali liunx官网】](https://www.kali.org/get-kali/#kali-installer-images)
 ![bandicam 2024-09-28 15-21-52-300](https://github.com/user-attachments/assets/a78defc3-7494-48e6-a5b2-3f4d0306b069)
 
-----------------------------------------------------------------------------------------------------------------------------
-阿里源kali系统官方链接：
+### -------------------------------------------------------------------------------------
+### 阿里源kali系统官方链接：
 ### [【阿里kali liunx官网】](https://developer.aliyun.com/mirror/)
 ![bandicam 2024-09-22 09-58-27-871](https://github.com/user-attachments/assets/6eb886ea-45e2-42d3-b5e2-132d9d0029ae)
-清华源kali系统官方链接：
+### 清华源kali系统官方链接：
 ### [【清华kali liunx官网】](https://mirrors.tuna.tsinghua.edu.cn/help/xanmod/)
 ![bandicam 2024-09-22 10-03-31-128](https://github.com/user-attachments/assets/5e89ecd8-8663-4657-a53e-795584aea39b)
 
-北京大学源kali系统官方链接：
+### 北京大学源kali系统官方链接：
 ### [【北京大学kali liunx官网】](https://mirrors.pku.edu.cn/Mirrors)
 ![bandicam 2024-09-22 10-07-11-886](https://github.com/user-attachments/assets/3ec48a1f-efac-437d-8cf9-a11ce2acae66)
-liunx官方网站链接：
+### liunx官方网站链接：
 ### [【liunx官网】](https://www.linux.org/pages/download/)
 ![bandicam 2024-09-21 17-59-39-156](https://github.com/user-attachments/assets/dbae2a48-7e40-48f2-8e58-358d25a57dc6)
 ![bandicam 2024-09-21 17-59-45-403](https://github.com/user-attachments/assets/c3ded2a6-53f2-4881-8aeb-cdd0b86a4434)
