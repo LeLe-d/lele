@@ -175,6 +175,6 @@ john --wordlist=/path/to/wordlist.txt /path/to/hashed_passwords.txt
 ### [【点击访问【乐乐电脑科学】bilibili账号】](https://space.bilibili.com/1768832152?spm_id_from=333.337.0.0)
 
 ### 加入我们：
-### [【点击加入我们】](https://github-production-user-asset-6210df.s3.amazonaws.com/171937997/374119434-6337df30-b023-413f-972f-abe938fe8a55.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241007T120548Z&X-Amz-Expires=300&X-Amz-Signature=abcbefcb5f5fe319c5c6c783c738a175cb4e2cf979802d4f818b0d80eef250cd&X-Amz-SignedHeaders=host)
+### [【点击加入我们】](https://github.com/user-attachments/assets/1ea21629-39b1-41ba-bc4a-131fe32322fe)
 技术支持捐赠：
 ### [【点击捐赠】](https://github.com/user-attachments/assets/a4b02915-3f60-4130-8b1a-04d679bee452)
