@@ -3,6 +3,10 @@
 ### kali虚拟机安装教程
 演示kali系统——kali 腾讯源
 ![bandicam 2024-09-22 10-01-20-610](https://github.com/user-attachments/assets/aee73392-fc37-4483-8341-64bdf2155b6a)
+### [【关联视频😆】](https://www.bilibili.com/video/BV1iZxTeqE5o/?share_source=copy_web&vd_source=000c388364ec27dcd01f63425f36fd10)
+### [【点击加入我们😜】](https://github.com/user-attachments/assets/1ea21629-39b1-41ba-bc4a-131fe32322fe)
+### [【点击捐赠😍】](https://github.com/user-attachments/assets/a4b02915-3f60-4130-8b1a-04d679bee452)
+
 ### _下载方法：_
 ### kali liunx腾讯官方镜像---------------------------------------------------------------------------
 ### 提示【从乐乐ti电脑科学视频过来的】-kali liunx腾讯源-为 乐乐 展示使用的kali liunx镜像，可用其他镜像，其他镜像在下面
@@ -173,8 +177,3 @@ john --wordlist=/path/to/wordlist.txt /path/to/hashed_passwords.txt
 （乐乐，）
 ### 乐乐ti电脑科学 bilibili：
 ### [【点击访问【乐乐电脑科学】bilibili账号】](https://space.bilibili.com/1768832152?spm_id_from=333.337.0.0)
-
-### 加入我们：
-### [【点击加入我们】](https://github.com/user-attachments/assets/1ea21629-39b1-41ba-bc4a-131fe32322fe)
-技术支持捐赠：
-### [【点击捐赠】](https://github.com/user-attachments/assets/a4b02915-3f60-4130-8b1a-04d679bee452)
