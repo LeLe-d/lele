@@ -23,6 +23,8 @@
 ### 乐乐电脑科学bilibili账号
 ### [【点击访问【乐乐电脑科学】bilibili账号】](https://space.bilibili.com/1768832152?spm_id_from=333.337.0.0)
 ### 加入我们：
-### [【点击加入我们】](https://github-production-user-asset-6210df.s3.amazonaws.com/171937997/374119434-6337df30-b023-413f-972f-abe938fe8a55.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241011T105800Z&X-Amz-Expires=300&X-Amz-Signature=43a8f741c843bee34885f04b83e732dbceb2e8895b77a4c75d8edf481fe089c9&X-Amz-SignedHeaders=host)
+### [【点击加入我们】](https://github.com/user-attachments/assets/637ec40a-29f6-462f-985d-5a04aec9cfb1)
+
+
 ### 技术支持捐赠：
-### [【点击捐赠】](https://github-production-user-asset-6210df.s3.amazonaws.com/171937997/374106045-27076e5d-e5c0-490d-9be2-3f26aca189b4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241011T110004Z&X-Amz-Expires=300&X-Amz-Signature=8cbf7163c4b951977d7a11d0e8c06aa99f023e00f739de7d8e13c92acebe4d1b&X-Amz-SignedHeaders=host)
+### [【点击捐赠】](https://github.com/user-attachments/assets/389b4642-2f17-4625-9bb1-ccf4e83cf903)
