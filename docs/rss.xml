@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>电脑科学文章存储库</title><link>https://LeLe-d.github.io/lele</link><description>个人，计算机爱好者，计算机/系统/软件/编程/站</description><copyright>电脑科学文章存储库</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/171937997?v=4</url><title>avatar</title><link>https://LeLe-d.github.io/lele</link></image><lastBuildDate>Sat, 15 Mar 2025 18:24:02 +0000</lastBuildDate><managingEditor>电脑科学文章存储库</managingEditor><ttl>60</ttl><webMaster>电脑科学文章存储库</webMaster><item><title>kali linux系统中nmap工具使用教程</title><link>https://LeLe-d.github.io/lele/post/kali%20linux-xi-tong-zhong-nmap-gong-ju-shi-yong-jiao-cheng.html</link><description>![Image](https://github.com/user-attachments/assets/c3f4d961-fee9-4caf-b490-affd28dbd72d)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>电脑科学文章存储库</title><link>https://LeLe-d.github.io/lele</link><description>个人，计算机爱好者，计算机/系统/软件/编程/站</description><copyright>电脑科学文章存储库</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/171937997?v=4</url><title>avatar</title><link>https://LeLe-d.github.io/lele</link></image><lastBuildDate>Sat, 15 Mar 2025 18:47:57 +0000</lastBuildDate><managingEditor>电脑科学文章存储库</managingEditor><ttl>60</ttl><webMaster>电脑科学文章存储库</webMaster><item><title>kali linux系统中nmap工具使用教程</title><link>https://LeLe-d.github.io/lele/post/kali%20linux-xi-tong-zhong-nmap-gong-ju-shi-yong-jiao-cheng.html</link><description>![Image](https://github.com/user-attachments/assets/c3f4d961-fee9-4caf-b490-affd28dbd72d)
 
 ## kali linux系统中nmap工具使用教程
 
@@ -424,7 +424,9 @@ sudo nmap -sS -sV -O -p 1-1000 -T4 --script vuln 192.168.1.1 -oN scan_result.txt
 ### 技术支持捐赠：
 ### [【点击捐赠】](https://github.com/user-attachments/assets/389b4642-2f17-4625-9bb1-ccf4e83cf903)
 
-# ![Image](https://github.com/user-attachments/assets/c8f6ea59-05e4-4d8c-a392-43f2689100a9)。</description><guid isPermaLink="true">https://LeLe-d.github.io/lele/post/%E3%80%90-le-le-dian-nao-ke-xue-%E3%80%91PyCharm-he-Python-an-zhuang-jiao-cheng.html</guid><pubDate>Fri, 11 Oct 2024 11:01:07 +0000</pubDate></item><item><title>【乐乐电脑科学】联想应用商店安装教程</title><link>https://LeLe-d.github.io/lele/post/%E3%80%90-le-le-dian-nao-ke-xue-%E3%80%91-lian-xiang-ying-yong-shang-dian-an-zhuang-jiao-cheng.html</link><description>![1](https://github.com/user-attachments/assets/b698fb79-dde0-413f-9115-54c360f4e0e6)&#13;
+# ![Image](https://github.com/user-attachments/assets/c8f6ea59-05e4-4d8c-a392-43f2689100a9)
+
+![Image](https://github.com/user-attachments/assets/d5826ad6-9132-448d-bd99-f1785d0d94ea)。</description><guid isPermaLink="true">https://LeLe-d.github.io/lele/post/%E3%80%90-le-le-dian-nao-ke-xue-%E3%80%91PyCharm-he-Python-an-zhuang-jiao-cheng.html</guid><pubDate>Fri, 11 Oct 2024 11:01:07 +0000</pubDate></item><item><title>【乐乐电脑科学】联想应用商店安装教程</title><link>https://LeLe-d.github.io/lele/post/%E3%80%90-le-le-dian-nao-ke-xue-%E3%80%91-lian-xiang-ying-yong-shang-dian-an-zhuang-jiao-cheng.html</link><description>![1](https://github.com/user-attachments/assets/b698fb79-dde0-413f-9115-54c360f4e0e6)&#13;
 ### 电脑科学&#13;
 ### ![lx2](https://github.com/user-attachments/assets/0e3f7de9-be94-438c-8b39-c7acfe07040c)&#13;
 &#13;
