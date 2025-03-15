@@ -1,5 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/0170770a-ea24-4642-9b34-341ed86eaa8f)
-## 本系统由"电脑科学"制作发出
+# 电脑科学集团
+
+![Image](https://github.com/user-attachments/assets/8cc92747-843c-4b41-a811-e1e326eb0013)
+# 电脑科学安全中心
+
+# 电脑科学旗下Windows定制发行版
+
 
 ## 本系统基于Windows7 旗舰版 X64
 
